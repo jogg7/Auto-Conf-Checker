@@ -1,10 +1,43 @@
 # Auto-Conf-Checker
 
-<p> The goal of this project is to write a bash script to automate the process of checking various configuration files and generating a report for later viewing.</p>
+<p> The goal of this project is to write a bash script to automate the process of checking various configuration files and generating a report for later viewing.
+Generate an  HTML report of the results of the program.</p>
+
+<h2>Project Requirements</h2>
+
+All error messages are displayed to stderr
+
+The CONFDIR environment variable is configurable at runtime
+
+Nothing should be hard coded into the program. Use appropriate variables and path completion
+
+Serious errors are errors that are a problem but the program can move on just fine
+
+List of serious errors:
+
+ - The file is missing from the .info file list
+
+Fatal errors
+
+ - Fatal errors are errors the program cannot recover from
+
+ - Your program should exit and also say "Bye" when there is a fatal error
+
+List of fatal errors:
+
+ - Not choosing a configuration directory
+
+ - No .info file present
+
+ - Required file does not exist
+
+ - Required file is not executable
+
+
 
 <h2>Project Structure Layout</h2>
 
-<p> Oracle VM VitualBox, Unbuntu Linux, Bash Scripting, C, xtrace, config files</p>
+<p> Oracle VM VitualBox, Unbuntu Linux, Bash Scripting, C, xtrace, config files, HTML</p>
 
 <h2> View Project Repository</h2>
 
