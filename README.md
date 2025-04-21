@@ -70,12 +70,12 @@ Project Structure Layout: <br/>
 
 <p align="center">
 Sample Run of Bash Script: <br/>
-<img src="https://github.com/jogg7/PNGs/blob/main/proj01%20sample%20run%20png.png" height="80%" width="80%" alt="Output of Bash Script"/>
+<img src="https://github.com/jogg7/PNGs/blob/main/Proj01%20Sample%20run%20image.png" height="80%" width="80%" alt="Output of Bash Script"/>
 <br />
 <br />
 
 <p align="center">
-<a href="https://github.com/jogg7/PNGs/blob/main/proj01%20sample%20run%20png.png" target="_blank">View Output When Script is Ran</a>
+<a href="https://github.com/jogg7/PNGs/blob/main/proj01%20final%20result.txt" target="_blank">View Output When Script is Ran</a>
 <br />
 <br />
 
