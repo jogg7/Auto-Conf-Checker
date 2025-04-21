@@ -34,11 +34,13 @@ List of fatal errors:
  - Required file is not executable
 
 <br />
-<br />
+
 
 <h2>Project Structure Layout</h2>
 
 <p> Oracle VM VitualBox, Unbuntu Linux, Bash Scripting, C, xtrace, config files, HTML</p>
+
+<br />
 
 <h2> View Project Repository</h2>
 
