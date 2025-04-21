@@ -33,7 +33,8 @@ List of fatal errors:
 
  - Required file is not executable
 
-
+<br />
+<br />
 
 <h2>Project Structure Layout</h2>
 
@@ -41,6 +42,7 @@ List of fatal errors:
 
 <h2> View Project Repository</h2>
 
+<p align="center">
 <a href="https://github.com/jogg7/Auto-Conf-Checker" target="_blank">View Project</a>
 
 <br />
@@ -48,7 +50,7 @@ List of fatal errors:
 
 <p align="center">
 Project Structure Layout: <br/>
-<img src="https://github.com/jogg7/PNGs/blob/main/Project1%20Layout.png" height="80%" width="80%" alt="Project File Structure Image"/>
+<img src="https://github.com/jogg7/PNGs/blob/main/Project1%20Layout.png" height="40%" width="40%" alt="Project File Structure Image"/>
 <br />
 <br />
 
@@ -57,6 +59,9 @@ Project Structure Layout: <br/>
 - proj01.sh is the script that will automatically test the configuration files in the conf/* directories
 
 </p>
+
+<br />
+<br />
 
 <p align="center">
 <h2> Proj01.sh Bash Script</h2>
@@ -70,7 +75,7 @@ Project Structure Layout: <br/>
 
 <p align="center">
 Sample Run of Bash Script: <br/>
-<img src="https://github.com/jogg7/PNGs/blob/main/Proj01%20Sample%20run%20image.png" height="80%" width="80%" alt="Output of Bash Script"/>
+<img src="https://github.com/jogg7/PNGs/blob/main/Proj01%20Sample%20run%20image.png" height="40%" width="40%" alt="Output of Bash Script"/>
 <br />
 <br />
 
@@ -80,27 +85,27 @@ Sample Run of Bash Script: <br/>
 <br />
 
 <p align="center">
-<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/prog" target="_blank">Prog Folder Contents</a>
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/prog" target="_blank">View Prog Folder Contents</a>
 <br />
 <br />
 
 <p align="center">
-<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/sshd" target="_blank">SSHD Folder Contents</a>
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/sshd" target="_blank">View SSHD Folder Contents</a>
 <br />
 <br />
 
 <p align="center">
-<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www1" target="_blank">WWW1 Folder Contents</a>
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www1" target="_blank">View WWW1 Folder Contents</a>
 <br />
 <br />
 
 <p align="center">
-<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www2" target="_blank">WWW2 Folder Contents</a>
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www2" target="_blank">View WWW2 Folder Contents</a>
 <br />
 <br />
 
 <p align="center">
-<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www3" target="_blank">WWW3 Folder Contents</a>
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www3" target="_blank">View WWW3 Folder Contents</a>
 <br />
 <br />
 
