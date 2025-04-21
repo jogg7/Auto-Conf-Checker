@@ -47,7 +47,7 @@ List of fatal errors:
 <br />
 
 <p align="center">
-Project Structure Layou: <br/>
+Project Structure Layout: <br/>
 <img src="https://github.com/jogg7/PNGs/blob/main/Project1%20Layout.png" height="80%" width="80%" alt="Project File Structure Image"/>
 <br />
 <br />
@@ -76,6 +76,31 @@ Sample Run of Bash Script: <br/>
 
 <p align="center">
 <a href="https://github.com/jogg7/PNGs/blob/main/proj01%20sample%20run%20png.png" target="_blank">View Output When Script is Ran</a>
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/prog" target="_blank">Prog Folder Contents</a>
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/sshd" target="_blank">SSHD Folder Contents</a>
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www1" target="_blank">WWW1 Folder Contents</a>
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www2" target="_blank">WWW2 Folder Contents</a>
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/jogg7/Auto-Conf-Checker/tree/main/www3" target="_blank">WWW3 Folder Contents</a>
 <br />
 <br />
 
