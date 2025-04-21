@@ -25,9 +25,10 @@ Project Structure Layou: <br/>
 
 </p>
 
+<p align="center">
 <h2> Proj01.sh Bash Script</h2>
 
-
+<p align="center">
 <a href="https://github.com/jogg7/Auto-Conf-Checker/blob/main/proj01.sh" target="_blank">View Bash Script</a>
 
 <br />
@@ -40,6 +41,7 @@ Sample Run of Bash Script: <br/>
 <br />
 <br />
 
+<p align="center">
 <a href="https://github.com/jogg7/PNGs/blob/main/proj01%20sample%20run%20png.png" target="_blank">View Output When Script is Ran</a>
 <br />
 <br />
