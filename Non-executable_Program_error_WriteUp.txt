@@ -1,0 +1,5 @@
+To create a test case where the executable doesn’t have the execute permission you would add a new directory within the conf directory and add a .info file within the new directory. For example, mkdir Non_Executeable_Program_Test. After you use chmod -x Non_Executeable_Program_Test to remove the ability to execute for users, groups, and others. After that you run ./proh01.sh and select the Non_Executeable_Program_Test option. When selecting this the script should be to handle this error appropriately. You can add this if statemnt to the script to exit if the program is not executeable to exit the program. 
+if [ ! -x "$Conf" ]; then
+    echo "$Conf is not an executable program. Bye" >&2
+    exit 2
+fi
