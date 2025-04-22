@@ -3,6 +3,8 @@
 <p> The goal of this project is to write a bash script to automate the process of checking various configuration files and generating a report for later viewing.
 Generate an  HTML report of the results of the program.</p>
 
+<br />
+
 <h2>Project Requirements</h2>
 
 All error messages are displayed to stderr
@@ -35,8 +37,7 @@ List of fatal errors:
 
 <br />
 
-
-<h2>Project Structure Layout</h2>
+<h2>Tools Used</h2>
 
 <p> Oracle VM VitualBox, Unbuntu Linux, Bash Scripting, C, xtrace, config files, HTML</p>
 
@@ -50,10 +51,10 @@ List of fatal errors:
 <br />
 <br />
 
+
 <p align="center">
 Project Structure Layout: <br/>
 <img src="https://github.com/jogg7/PNGs/blob/main/Project1%20Layout.png" height="40%" width="40%" alt="Project File Structure Image"/>
-<br />
 <br />
 
 <p> 
@@ -63,7 +64,6 @@ Project Structure Layout: <br/>
 </p>
 
 <br />
-<br />
 
 <p align="center">
 <h2> Proj01.sh Bash Script</h2>
@@ -71,7 +71,6 @@ Project Structure Layout: <br/>
 <p align="center">
 <a href="https://github.com/jogg7/Auto-Conf-Checker/blob/main/proj01.sh" target="_blank">View Bash Script</a>
 
-<br />
 <br />
 
 
