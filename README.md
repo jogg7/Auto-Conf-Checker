@@ -39,7 +39,7 @@ List of fatal errors:
 
 <h2>Tools Used</h2>
 
-<p> Oracle VM VitualBox, Unbuntu Linux, Bash Scripting, C, xtrace, config files, HTML</p>
+<p> Oracle VM VirtualBox, Unbuntu Linux, Bash Scripting, C, xtrace, config files, HTML</p>
 
 <br />
 
